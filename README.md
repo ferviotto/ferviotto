@@ -4,6 +4,7 @@
 - 💻 Transitioning to a career in dev and/or data analysis
 - 🌱 Studying Java, Python, MySQL, JavaScript, Spring & much more!
 - ✨ Internationalist, Economist, Administrator, and Singer in my spare time!
+- 🌎 Brazilian, 27 y.o
 - 😄 Pronouns: she/her
 -->
 
