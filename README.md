@@ -6,7 +6,6 @@
 - ✨ Internationalist, Economist, Administrator, and Singer in my spare time!
 - 🌎 Brazilian, 27 y.o
 - 😄 Pronouns: she/her
--->
 
 
 ![Omni GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferviotto&repo=ferviotto&show_icons=true&theme=omni)
