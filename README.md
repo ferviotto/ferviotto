@@ -1,10 +1,10 @@
-## Olá! Eu sou a Fer! Boas-vindas ao meu GitHub! 👋
+## Hi! You can call me Fer! Welcome to my GitHub! 👋
 
 
-- 💻 Em transição de carreira para a área de dev e análise de dados
-- 🌱 Estudando Java, Python, MySQL, JavaScript, STS & muito mais!
-- ✨ Internacionalista, Economista, Admnistradora e Cantora nas horas vagas!
-- 😄 Pronomes: ela/dela
+- 💻 Transitioning to a career in dev and/or data analysis
+- 🌱 Studying Java, Python, MySQL, JavaScript, Spring & much more!
+- ✨ Internationalist, Economist, Administrator, and Singer in my spare time!
+- 😄 Pronouns: she/her
 -->
 
 
@@ -19,6 +19,8 @@
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fer-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Fer-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Fer-Spring" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
 </div>
 
 ##
@@ -27,3 +29,5 @@
   <a href = "mailto:fernandavdgobbi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernanda-viotto-de-gobbi " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF69B4&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
