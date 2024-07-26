@@ -30,12 +30,4 @@
   <a href="https://www.linkedin.com/in/fernanda-viotto-de-gobbi " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
-  <h2 style="text-align: left;">My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/ferviotto/ferviotto/raw/output/dist/github-snake-pink.svg" />
-  <br/><br/><br/>
-</div>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF69B4&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
